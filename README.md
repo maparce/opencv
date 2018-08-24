@@ -12,4 +12,4 @@ These are the scripts for practicing opencv using Python on PC and Mac
     1. ```cd test```
     1. ```source bin/activate```
         - this will start the virtual environment and you should see something like (test) at the beggining of each line in Terminal
-
+    1. type ```pyhton``` if you want to work inside python otherwise type ```python colorscroll.py``` to run the script named ```colorscroll.py```
